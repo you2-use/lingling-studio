@@ -1,0 +1,16 @@
+{
+  "kind": "marinara.personal-extension",
+  "version": 1,
+  "config": {
+    "name": "령령의 마리나라 제작실",
+    "version": "2.0.0",
+    "description": "령령 RP방과 연동하는 캐릭터·페르소나·로어북 제작, 편집, 저장 통합 도구",
+    "runtime": "client",
+    "capabilities": [
+      "full_page_access"
+    ],
+    "jsPath": "extension.js",
+    "cssPath": "extension.css",
+    "enabled": false
+  }
+}

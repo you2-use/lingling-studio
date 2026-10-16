@@ -2,7 +2,7 @@
 
 령령과 대화하며 캐릭터·페르소나·로어북을 만들고, 필요한 부분을 수정해 Marinara 라이브러리에 저장하는 확장입니다.
 
-**공개 버전: v2.0.0 · Marinara Engine v2.5.0에서 제작·호환 확인**
+**공개 버전: v2.0.0 · Marinara Engine v2.5.0에서 호환 확인**
 
 ## 주요 기능
 
@@ -46,7 +46,7 @@ GitHub 확장 관리자가 기본 가져오기 버튼을 숨겼다면 **확장 �
 
 ## 령령 봇카드와 추가 이미지
 
-- [령령 봇카드 다운로드 — CharacterCard.json](https://github.com/you2-use/lingling-studio/releases/latest/download/CharacterCard.json)
+- [령령 봇카드 다운로드 — CharCard.json](https://github.com/you2-use/lingling-studio/releases/download/v2.0.0/CharCard.json)
 - [령령 추가 이미지 다운로드 — LinglingImage.zip](https://github.com/you2-use/lingling-studio/releases/latest/download/LinglingImage.zip)
 
 봇카드는 Marinara의 캐릭터 가져오기로 등록하고 령령이 참여하는 RP방을 여세요. 카드에 들어 있는 내장 로어북도 함께 확인하세요. 이 카드는 이름이 `{{char}}`로 설정되어 있습니다. 연동에 사용하는 페르소나 이름은 `{{user}}`로 맞춰 사용하세요. 확장은 두 매크로를 원문 그대로 전달합니다.
@@ -100,7 +100,7 @@ GitHub 확장 관리자가 기본 가져오기 버튼을 숨겼다면 **확장 �
 
 ## 업데이트와 수정 기록
 
-GitHub 확장 관리자에서 **업데이트 확인 → 업데이트 설치**를 사용하세요. ZIP 직접 설치는 새 설치 ZIP을 받아 기존과 같은 가져오기 화면에서 업데이트합니다. **Save Disabled Update**가 표시되면 비활성 상태로 업데이트를 저장하는 버튼입니다.
+GitHub 확장 관리자에서 **업데이트 확인 → 업데이트 설치**를 사용하세요. ZIP 직접 설치는 새 설치 ZIP을 받아 기존과 같은 가져오기 화면에서 업데이트합니다.
 
 업데이트 후에는 확장이 꺼진 상태로 저장됩니다. 새 코드와 권한을 검토한 뒤 **다시 실행을 승인**하세요. 이름이 **령령의 마리나라 제작실**인 기존 확장을 업데이트하면 설정과 저장 데이터를 유지합니다. 업데이트 전에는 초안을 임시 저장하고 중요한 결과를 JSON으로 보관하세요. 화면이 갱신되지 않으면 저장을 마친 뒤 새로고침하세요.
 
